@@ -12,3 +12,6 @@ http://timgolden.me.uk/pywin32-docs/win32clipboard.html
 
 socket 长连接 通信
 https://www.cnblogs.com/xilouch/p/4618903.html
+
+server.py client.py 短连接通信
+server2.py client2.py 长连接通信
